@@ -10,21 +10,22 @@ I am a passionate Backend Developer with expertise in **Java**, **Spring Boot**,
 I have completed my **Master of Computer Applications (MCA)** from **Chaitanya Deemed To Be University** with a strong academic background in backend development and cloud technologies. Through my projects and certifications, I have gained hands-on experience in creating efficient systems and APIs.
 
 ---
-
-## 🔧 Skills
+## 🌟 Skills & Interests
 
 ### Programming Languages:
 - **Java** | **J2EE**
 
-### Frameworks:
+### Frameworks/Libraries:
 - **Spring Boot** | **Microservices**
 
-### Tools & Technologies:
+### Databases:
+- **MySQL** | **PostgreSQL**
+
+### Developer Tools:
 - **Docker** | **Git/GitHub** | **JUnit** | **Postman** | **Swagger**
 
 ### Cloud:
 - **AWS EC2 Integration**
-
 ---
 
 ## 🚀 Projects
