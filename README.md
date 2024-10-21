@@ -2,7 +2,7 @@
 
 ## Welcome to My GitHub Repository!
 
-I am a passionate Backend Developer with expertise in **Java**, **Spring Boot**, **Microservices**, and **AWS Cloud Services**. I love building scalable applications and optimizing systems for better performance.
+I am a passionate Backend Developer with expertise in **Java**, **Spring Boot**, **Spring Boot Data Jpa**, **Spring Boot Batch**, **Spring Boot Maling**, **MySQL**, **Microservices**, and **AWS Cloud Services**. I love building scalable applications and optimizing systems for better performance.
 
 ---
 
