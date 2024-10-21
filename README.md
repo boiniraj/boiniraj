@@ -2,7 +2,7 @@
 
 ## Welcome to My GitHub Repository!
 
-I am a passionate Backend Developer with expertise in **Java**, **Spring Boot**, **Spring Boot Data Jpa**, **Spring Boot Batch**, **Spring Boot Maling**, **MySQL**, **Microservices**, and **AWS Cloud Services**. I love building scalable applications and optimizing systems for better performance.
+I am a passionate Backend Developer with expertise in **Java**, **Spring Boot**, **SQL**, **MySQL**, **Microservices**, and **AWS Cloud Services**. I love building scalable applications and optimizing systems for better performance.
 
 ---
 
@@ -22,12 +22,12 @@ I have completed my **Master of Computer Applications (MCA)** from **Chaitanya D
 
 ### 1. **ISH (Insurance System for Health)**
 ISH (Insurance System for Health) is a fully integrated online platform that allows citizens to apply for various health and insurance plans tailored to their life situations and profiles. The system evaluates citizens' eligibility based on their provided information, enabling a more efficient and streamlined application process.
-- **Tech Stack**: Java, J2EE, Spring Boot, Microservices, Docker
+- **Tech Stack**: Java, J2EE, Spring Boot, Microservices, Docker, Spring Boot Data Jpa, Spring Boot Batch, Spring Boot Maling.
 - **Key Achievements**: Improved system reliability by 30% through thorough JUnit testing across multiple modules.
 
 ### 2. **College Directory Application**
 Built a platform to manage personal and academic information for students, faculty, and administrators.
-- **Tech Stack**: Java, Spring Boot, PostgreSQL, RESTful APIs
+- **Tech Stack**: Java, Spring Boot, MySQL, RESTful APIs
 - **Key Focus**: Role-based access control and user management.
 
 ### 3. **Course Registration Frontend**
