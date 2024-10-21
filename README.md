@@ -26,7 +26,7 @@ ISH (Insurance System for Health) is a fully integrated online platform that all
 - **Key Achievements**: Improved system reliability by 30% through thorough JUnit testing across multiple modules.
 
 ### 2. **College Directory Application**
-Built a platform to manage personal and academic information for students, faculty, and administrators.
+I Develop a College Directory Application to facilitate seamless interaction between students, faculty members, and administrators within a single college. The application will allow users to manage and access personal and academic information efficiently.[Project Link](https://github.com/boiniraj/College-Directory-Application.git)
 - **Tech Stack**: Java, Spring Boot, MySQL, RESTful APIs
 - **Key Focus**: Role-based access control and user management.
 
