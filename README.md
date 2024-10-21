@@ -12,21 +12,11 @@ I have completed my **Master of Computer Applications (MCA)** from **Chaitanya D
 ---
 ## 🌟 Skills & Interests
 
-### Programming Languages:
-- **Java** | **J2EE**
-
-### Frameworks/Libraries:
-- **Spring Boot** | **Microservices**
-
-### Databases:
-- **MySQL** | **PostgreSQL**
-
-### Developer Tools:
-- **Docker** | **Git/GitHub** | **JUnit** | **Postman** | **Swagger**
-
-### Cloud:
-- **AWS EC2 Integration**
----
+- **Programming Languages**: Java, SQL
+- **Frameworks/Libraries**:Spring Boot, Microservices
+- **Databases**: SQL, MySQL
+- **Developer Tools**: Docker, Git/GitHub, Junit, Postman, Swagger
+- **Cloud**: AWS EC2 Integration
 
 ## 🚀 Projects
 
@@ -55,8 +45,8 @@ Created a responsive course registration platform for students to enroll in cour
 
 ## 📫 Let's Connect!
 - **Email**: rajkumarboini103@gmail.com
-- **LinkedIn**: [Rajkumar Boini](https://www.linkedin.com/in/rajkumar-boini)
-- **GitHub**: [boiniraj](https://github.com/boiniraj)
+- **LinkedIn**: https://www.linkedin.com/in/rajkumar-boini
+- **GitHub**: https://github.com/boiniraj
 
 ---
 
