@@ -17,6 +17,7 @@ I'm Rajkumar, a recent Master of Computer Applications (MCA) graduate from Chait
 - **Databases**: SQL, MySQL
 - **Developer Tools**: Docker, Git/GitHub, Junit, Postman, Swagger
 - **Cloud**: AWS EC2 Integration
+- **Academic Coursework** : Data Structures, Operating Systems (Windows, Linux), CN, OOP, DBMS
 
 ## 🚀 Projects
 
