@@ -21,7 +21,7 @@ I have completed my **Master of Computer Applications (MCA)** from **Chaitanya D
 ## 🚀 Projects
 
 ### 1. **ISH (Insurance System for Health)**
-Developed a comprehensive online platform for citizens to apply for health and insurance plans.
+ISH (Insurance System for Health) is a fully integrated online platform that allows citizens to apply for various health and insurance plans tailored to their life situations and profiles. The system evaluates citizens' eligibility based on their provided information, enabling a more efficient and streamlined application process.
 - **Tech Stack**: Java, J2EE, Spring Boot, Microservices, Docker
 - **Key Achievements**: Improved system reliability by 30% through thorough JUnit testing across multiple modules.
 
