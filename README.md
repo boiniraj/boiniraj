@@ -7,7 +7,7 @@ I am a passionate Backend Developer with expertise in **Java**, **Spring Boot**,
 ---
 
 ## 📖 About Me
-I recently completed my Master of Computer Applications (MCA) from Chaitanya Deemed To Be University in 2023. As a fresher, I have a strong academic foundation in backend development and cloud technologies. Through academic projects and self-driven learning, I have gained practical experience in building efficient systems and APIs using technologies like Java, Spring Boot, Docker, and AWS. I am eager to apply my skills in a professional setting and contribute to creating scalable, high-performance solutions.
+I'm Rajkumar, a recent Master of Computer Applications (MCA) graduate from Chaitanya Deemed To Be University with a passion for backend development and cloud technologies. This README is my playground to showcase my journey, skills, and aspirations. Let’s dive in!.
 
 ---
 ## 🌟 Skills & Interests
