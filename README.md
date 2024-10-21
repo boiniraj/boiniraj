@@ -33,7 +33,7 @@ I Develop a College Directory Application to facilitate seamless interaction bet
 - **Key Focus**: Role-based access control and user management.
 
 ### 3. **Course Registration Frontend**
-Created a responsive course registration platform for students to enroll in courses.[Project Link](https://courseregister.netlify.app/)
+Created a responsive course registration platform for students to enroll in courses. [Project Link](https://courseregister.netlify.app/)
 - **Tech Stack**: HTML, CSS, Bootstrap
 - **Key Feature**: Designed an efficient user interface for smooth course enrollment.
 
