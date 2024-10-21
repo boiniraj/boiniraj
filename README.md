@@ -7,7 +7,7 @@ I am a passionate Backend Developer with expertise in **Java**, **Spring Boot**,
 ---
 
 ## 📖 About Me
-I have completed my **Master of Computer Applications (MCA)** from **Chaitanya Deemed To Be University** with a strong academic background in backend development and cloud technologies. Through my projects and certifications, I have gained hands-on experience in creating efficient systems and APIs.
+I recently completed my Master of Computer Applications (MCA) from Chaitanya Deemed To Be University in 2023. As a fresher, I have a strong academic foundation in backend development and cloud technologies. Through academic projects and self-driven learning, I have gained practical experience in building efficient systems and APIs using technologies like Java, Spring Boot, Docker, and AWS. I am eager to apply my skills in a professional setting and contribute to creating scalable, high-performance solutions.
 
 ---
 ## 🌟 Skills & Interests
