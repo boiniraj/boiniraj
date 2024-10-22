@@ -12,7 +12,7 @@ I'm Rajkumar, a recent Master of Computer Applications (MCA) graduate from Chait
 ---
 ## 🌟 Skills & Interests
 
-- **Programming Languages**: Java, SQL
+- **Programming Languages**: Java, HTML, CSS, JavaScript
 - **Frameworks/Libraries**:Spring Boot, Microservices
 - **Databases**: SQL, MySQL
 - **Developer Tools**: Docker, Git/GitHub, Junit, Postman, Swagger
