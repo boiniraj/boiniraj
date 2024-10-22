@@ -1,12 +1,10 @@
 # Hi, I'm Rajkumar Boini 👋
 
-## Welcome to My GitHub Repository!
 
-I am a passionate Backend Developer with expertise in **Java**, **Spring Boot**, **SQL**, **MySQL**, **Microservices**, and **AWS Cloud Services**. I love building scalable applications and optimizing systems for better performance.
 
 ---
 
-## 📖 About Me
+##  About Me
 I'm Rajkumar, a recent Master of Computer Applications (MCA) graduate from Chaitanya Deemed To Be University with a passion for backend development and cloud technologies. This README is my playground to showcase my journey, skills, and aspirations. Let’s dive in!.
 
 ---
